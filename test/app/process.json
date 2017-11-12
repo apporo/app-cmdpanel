@@ -1,0 +1,7 @@
+{
+  "apps": [{
+    "name": "app-cmdpanel-demo",
+    "script": "test/app",
+    "watch": true
+  }]
+}
